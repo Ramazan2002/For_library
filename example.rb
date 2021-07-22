@@ -58,4 +58,3 @@ end
 
 a = Sequence.new('1')
 b = Make.new(a)
-# result = b.make_seq(4)
